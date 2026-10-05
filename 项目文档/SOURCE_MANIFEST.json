@@ -19,12 +19,12 @@
     {
       "bytes": 685,
       "path": "pyproject.toml",
-      "sha256": "b2ff550392f4ec0a85abc0e111fee78409b155aede87b851ff535cfdd969a7d1"
+      "sha256": "f18292348b3fca3b12c62c3f272d0d99c8493c2c082c003dad0edbbdb0ad8736"
     },
     {
       "bytes": 6235,
       "path": "scripts/run_validation.py",
-      "sha256": "89f5d79cb81bbc5a67fd09f5f2a535619711b4dd1467d5f51ac7d206eea8d5bf"
+      "sha256": "bc641a7b0ed5efae829b67fdbc93a1305bbe9319b4bbf9bf658fca8dc43d474e"
     },
     {
       "bytes": 159,
@@ -67,16 +67,16 @@
       "sha256": "45fd97b27eaccb0819c48588cb4abcd79100d39d124831a2fb8cd586b7b356f2"
     },
     {
-      "bytes": 583,
+      "bytes": 1011,
       "path": "项目文档/VERSION_STATUS.md",
-      "sha256": "43f7513565e6deeafd6fc936ffb49f8d667aa4a34d0474d7d56d02841ab1fe48"
+      "sha256": "4bbb032fdaea6c6c29e59550309e104fdbe5efaa801aa08d05561ada70a28af2"
     },
     {
       "bytes": 463,
       "path": "项目文档/构建配置.json",
-      "sha256": "17db2cd4b1c97ddd0ebf2b8ca743d038b7beb4c1540c824e0603e13ae3b2524f"
+      "sha256": "42956c91fe1d0ff60f05875a4a78af0ca997e7e61916bf12e471a51a0f9260c6"
     }
   ],
   "project": "SftpHandlePermissionGate",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }

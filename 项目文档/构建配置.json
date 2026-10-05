@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "python": ">=3.11",
   "protocol": "SFTP v3",
   "runtime_dependency": "paramiko==5.0.0",

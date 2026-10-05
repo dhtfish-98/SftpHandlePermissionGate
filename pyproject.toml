@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "sftp-handle-permission-gate"
-version = "0.1.0"
+version = "0.1.1"
 description = "An isolated SFTP v3 handle authorization lab"
 readme = "项目文档/README.md"
 requires-python = ">=3.11"

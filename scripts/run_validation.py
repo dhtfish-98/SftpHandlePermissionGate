@@ -127,7 +127,7 @@ def main() -> None:
     receipt = {
         "status": "PASS_LOCAL_ONLY",
         "project": "SftpHandlePermissionGate",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "python": sys.version.split()[0],
         "protocol": "SFTP v3",
         "dependency": "paramiko==5.0.0",
