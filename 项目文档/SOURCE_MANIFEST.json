@@ -1,0 +1,82 @@
+{
+  "author": "dhtfish98",
+  "files": [
+    {
+      "bytes": 829,
+      "path": ".github/workflows/verify.yml",
+      "sha256": "2fead796d0a09521cb895d0a6b8def36fab2e669829c5af45e6d7214dd78809d"
+    },
+    {
+      "bytes": 68,
+      "path": ".gitignore",
+      "sha256": "078412aede83e5dd872e37ebe9906ae871d4cc83b516561018b29e6972c000eb"
+    },
+    {
+      "bytes": 14,
+      "path": "Build/.gitignore",
+      "sha256": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+    },
+    {
+      "bytes": 685,
+      "path": "pyproject.toml",
+      "sha256": "b2ff550392f4ec0a85abc0e111fee78409b155aede87b851ff535cfdd969a7d1"
+    },
+    {
+      "bytes": 6235,
+      "path": "scripts/run_validation.py",
+      "sha256": "89f5d79cb81bbc5a67fd09f5f2a535619711b4dd1467d5f51ac7d206eea8d5bf"
+    },
+    {
+      "bytes": 159,
+      "path": "src/sftp_handle_permission_gate/__init__.py",
+      "sha256": "3a72aa592ab90e71bc5d5e0e383f943d63bfa4648670ebd032cfc3551ef5baa8"
+    },
+    {
+      "bytes": 15590,
+      "path": "src/sftp_handle_permission_gate/server.py",
+      "sha256": "63a22394dae6132c572ec8d428a89c200735608ccd7b168797114ad0807144cc"
+    },
+    {
+      "bytes": 9800,
+      "path": "tests/test_sftp_gate.py",
+      "sha256": "9be65a2eac613f344e7805402d86106879fbd78463f6bc6608947641bec6ca26"
+    },
+    {
+      "bytes": 385,
+      "path": "tests/weak_baseline.py",
+      "sha256": "f81970f13cb40b418787285e0f825388688069fe9c6a06a9627fbbf0e551d539"
+    },
+    {
+      "bytes": 1066,
+      "path": "项目文档/LICENSE",
+      "sha256": "de926d6c22d9e061af6158b0f23146ce036bfb2a562f2f406acec2dc4bd8b298"
+    },
+    {
+      "bytes": 893,
+      "path": "项目文档/ORIGIN.md",
+      "sha256": "af49dfeebd608b48ed8ffc62bba587ad7c4f87fe1511903f36acd34ea3722458"
+    },
+    {
+      "bytes": 2189,
+      "path": "项目文档/README.md",
+      "sha256": "6105b68f3094c1c489369b71b0fdf36abc0da75941ccfad380480346955402b8"
+    },
+    {
+      "bytes": 544,
+      "path": "项目文档/THIRD_PARTY.md",
+      "sha256": "45fd97b27eaccb0819c48588cb4abcd79100d39d124831a2fb8cd586b7b356f2"
+    },
+    {
+      "bytes": 583,
+      "path": "项目文档/VERSION_STATUS.md",
+      "sha256": "43f7513565e6deeafd6fc936ffb49f8d667aa4a34d0474d7d56d02841ab1fe48"
+    },
+    {
+      "bytes": 463,
+      "path": "项目文档/构建配置.json",
+      "sha256": "17db2cd4b1c97ddd0ebf2b8ca743d038b7beb4c1540c824e0603e13ae3b2524f"
+    }
+  ],
+  "project": "SftpHandlePermissionGate",
+  "version": "0.1.0"
+}

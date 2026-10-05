@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling>=1.25,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sftp-handle-permission-gate"
+version = "0.1.0"
+description = "An isolated SFTP v3 handle authorization lab"
+readme = "项目文档/README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["项目文档/LICENSE"]
+authors = [{ name = "dhtfish98" }]
+dependencies = ["paramiko==5.0.0"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Topic :: Security",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/sftp_handle_permission_gate"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+  "/src",
+  "/tests",
+  "/scripts",
+  "/pyproject.toml",
+  "/项目文档",
+]
